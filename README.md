@@ -1,5 +1,5 @@
 # Smart Spectacles
-This repository contains some of the code that was made for our Smart Spectacles project done as a project under CFI Electronics Club in the year 2021-22. An extract on the idea behind the project is detailed below.
+This repository contains some of the code that was made for our Smart Spectacles project done as a project under CFI Electronics Club in the year 2021-22. This project was presented at the CFI Open House, March 2022, at IIT Madras. I've incorporated as many details as possible that went into the research of this project here. An extract on the idea behind the project is detailed below.
 
 ## Problem Statement
 Essentially, deaf people face difficulties in the world, and this project aims to fix that (at least certain aspects of it). There are a lot of instances where we need to be ‘alerted’ by certain sounds, and this product is meant to give the deaf as well as those who are hard of hearing an opportunity to be alerted by such sounds as well.
